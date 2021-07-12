@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mswing1.0.0">
+    <output-path>$USER_HOME$/Desktop/bb</output-path>
+    <root id="archive" name="mswing1.0.0.jar">
+      <element id="module-output" name="mswing" />
+    </root>
+  </artifact>
+</component>
